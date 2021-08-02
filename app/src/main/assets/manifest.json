@@ -1,0 +1,10 @@
+{
+    "name": "iHerb",
+    "short_name": "iHerb",
+    "description": "iHerb",
+    "start_url": "https://www.iHerb.com/",
+    "scope": "/any/",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "lang": "English"
+}
